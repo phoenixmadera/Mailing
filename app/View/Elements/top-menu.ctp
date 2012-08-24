@@ -10,7 +10,7 @@
 	    		<span class="caret"></span>
 	  		</a>
 	  		<ul class="dropdown-menu">
-	    		<?php echo $this->Html->link('Lists Management', array('plugin' => 'Mailing', 'controller' => 'lists', 'action' => 'index')); ?>
+	    		<?php echo $this->Html->link('Lists Management', array('plugin' => 'mailing', 'controller' => 'lists', 'action' => 'index')); ?>
 	  		</ul>
 			</div>
 		</li>
