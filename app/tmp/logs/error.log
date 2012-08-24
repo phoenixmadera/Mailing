@@ -240,3 +240,98 @@
 #3 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(ListsController), Object(CakeRequest), Object(CakeResponse))
 #4 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2012-08-24 21:47:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:47:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:47:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:47:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:48:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:48:23 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:58:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:58:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:58:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:58:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:59:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 21:59:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:02:48 Error: [MissingControllerException] Controller class PagesController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:04:35 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/mailing/app/View/Elements/top-menu.ctp, line 4]
+2012-08-24 22:04:35 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-08-24 22:04:37 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/mailing/app/View/Elements/top-menu.ctp, line 4]
+2012-08-24 22:04:37 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-08-24 22:04:54 Error: [MissingControllerException] Controller class ListsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:05:13 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:05:28 Error: [MissingControllerException] Controller class ListsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:06:19 Error: Fatal Error (4): syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/mailing/app/View/Elements/top-menu.ctp, line 12]
+2012-08-24 22:06:19 Error: [FatalErrorException] syntax error, unexpected T_DOUBLE_ARROW, expecting ')'
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-08-24 22:06:29 Error: Fatal Error (4): syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/mailing/app/View/Elements/top-menu.ctp, line 12]
+2012-08-24 22:06:29 Error: [FatalErrorException] syntax error, unexpected T_DOUBLE_ARROW, expecting ')'
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/mailing/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-08-24 22:06:42 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:06:59 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:07:30 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:08:20 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-24 22:08:22 Error: [MissingControllerException] Controller class MailingController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/mailing/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
