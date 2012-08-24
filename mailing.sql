@@ -52,6 +52,15 @@ CREATE  TABLE `db_mailing`.`mailing_messages` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
+ALTER TABLE `db_mailing`.`mailing_messages` 
+  ADD CONSTRAINT `fk_template`
+  FOREIGN KEY (`id_templates` )
+  REFERENCES `db_mailing`.`mailing_templates` (`id` )
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION
+, ADD INDEX `fk_template_idx` (`id_templates` ASC) ;
+
+
 /* Create table templates */
 CREATE  TABLE `db_mailing`.`mailing_templates` (
   `id` INT NOT NULL ,
