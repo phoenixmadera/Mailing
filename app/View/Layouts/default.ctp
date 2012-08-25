@@ -23,8 +23,7 @@ $cakeDescription = __d('cake_dev', 'Mailing Plugin for CakePHP 2.x - Send e-mail
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php echo $cakeDescription ?>:
-		<?php echo $title_for_layout; ?>
+		<?php echo $cakeDescription ?>
 	</title>
 	<?php
 		echo $this->Html->meta('icon');

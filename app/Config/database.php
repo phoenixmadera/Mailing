@@ -66,7 +66,8 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => '',
 		'database' => 'db_mailing',
-		'prefix' => ''
+		'prefix' => '',
+		'port' => '/Applications/xampp/xamppfiles/var/mysql/mysql.sock'
 		//'encoding' => 'utf8',
 	);
 

@@ -1,0 +1,1 @@
+export PATH=/Applications/XAMPP/xamppfiles/bin:/Applications/XAMPP/xamppfiles/Mailing/cake/console:$PATH

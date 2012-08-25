@@ -1,1 +1,1 @@
-teste
+<?php debug($users); ?>
