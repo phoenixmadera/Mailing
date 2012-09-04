@@ -1,4 +1,4 @@
-This is a Mailing(Newsletter) plugin for CakePHP 2.x!
+This is a Mailing(Newsletter) plugin for CakePHP 2.x!(w00t)
 <br /><br />
 It send e-mails in the background of your application. Magic, no? :)
 <br /><br />
